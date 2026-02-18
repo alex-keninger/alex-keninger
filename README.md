@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Alex 👋</h1>
+<h1 align="center">Hello, World! I'm Alex 👋</h1>
 
 <p align="left">
   <strong> AWS Solutions Architect
