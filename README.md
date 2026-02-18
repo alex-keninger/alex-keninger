@@ -19,7 +19,7 @@
 
 I'm an AWS Solutions Architect with 4 years of experience in the cloud industry. I currently support engaged cross-industry enterprises across the full range of AWS services, with a specialty background in storage services and support engineering. 
 
-I tend to use GitHub for building personal projects and learning, however expect to see more here soon as I release some public projects this year!. In the meantime, checkout my LinkedIn and feel free to reach out anytime.
+I tend to use GitHub for building personal projects and learning, however expect to see more here soon as I release some public projects this year! In the meantime, checkout my LinkedIn and feel free to reach out anytime.
 
 ---
 
