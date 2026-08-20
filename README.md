@@ -17,7 +17,7 @@
 
 ### About Me
 
-I'm an AWS Solutions Architect with 4 years of experience in the cloud industry. I currently support engaged cross-industry enterprises across the full range of AWS services, with a specialty background in storage services and support engineering. 
+I'm an AWS Solutions Architect with over 4 years of experience in the cloud industry. I currently support engaged cross-industry enterprises across the full range of AWS services, with a specialty background in storage services, AI, and support engineering. 
 
 I tend to use GitHub for building personal projects and learning, however expect to see more here soon as I release some public projects this year! In the meantime, checkout my LinkedIn and feel free to reach out anytime.
 
@@ -25,7 +25,7 @@ I tend to use GitHub for building personal projects and learning, however expect
 
 ### What I'm Building With
 
-- 🧠 AI Tools/Projects - AWS Bedrock, QuickSuite, Kiro, Claude Code
+- 🧠 AI Tools/Projects - Amazon Bedrock, Quick, Kiro, Claude Code
 - ☸️ Kubernetes/Docker — Deeper learning 
 - 🛠️ Terraform/CICD - Deeper learning
 - 🧱 Databricks - Deeper learning
