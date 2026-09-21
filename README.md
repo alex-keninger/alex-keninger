@@ -17,7 +17,7 @@
 
 ### About Me
 
-I'm an AWS Solutions Architect with over 4 years of experience in the cloud industry. I currently support engaged cross-industry SMB companies across the full range of AWS services, with a specialty background in storage services, AI, and support engineering. 
+I'm an AWS Solutions Architect with over 4 years of experience in the cloud industry. I currently support engaged cross-industry SMBs across the full range of AWS services, with specialized background in storage services, AI, and support engineering. 
 
 ---
 
@@ -32,4 +32,4 @@ I'm an AWS Solutions Architect with over 4 years of experience in the cloud indu
 
 ### Most Recent Read
 
-- 📖 - Dark Age (Peirce Brown)
+- 📖 - Dark Age (Pierce Brown)
